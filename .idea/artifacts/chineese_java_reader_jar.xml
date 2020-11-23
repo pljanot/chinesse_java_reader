@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="chineese_java_reader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chineese_java_reader_jar</output-path>
+    <root id="archive" name="chineese_java_reader.jar">
+      <element id="module-output" name="chineese_java_reader" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/info/picocli/picocli/4.5.2/picocli-4.5.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
